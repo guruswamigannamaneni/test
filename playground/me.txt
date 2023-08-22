@@ -1,1 +1,1 @@
-{{#user}} Name:Guruswami   Skills:HTML,CSS,JAVASCRIPT,BOOTSTRAP    Emails:gannamaneniguruswami2002@gmail.com   {{/user}}
+{{/user}}
